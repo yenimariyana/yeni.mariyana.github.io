@@ -1,0 +1,31 @@
+#background{
+    margin-top:-120px;
+    background:url(../img/background.jpg) no-repeat;
+    background-zise:cover;
+    padding-top:111px;
+    height: 638px;
+    max-height: 11112px; 
+}
+#background{
+    background:none;
+    margin-left: 137px;
+    max-width: 1000px;
+    margin-top: 22px;
+
+}
+
+
+#background .jumbotron{
+    font-family:nexa;
+    color: white;
+    margin-bottom:-12px;
+}
+
+#background .jumbotron p{
+    font-family:raileway;
+    color: white;
+    margin-bottom:-12px;
+    margin-top: 27px;
+    padding-right: 307px;
+    
+}
